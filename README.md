@@ -1,6 +1,6 @@
-# Projet-V5.2.0
+# Fruits du démon
 ## zoan
-
+Zoan est le nom donné à un type de Fruit du Démon permettant à son utilisateur de se transformer en animal ou en une créature hybride (moitié espèce animale et moitié espèce de l'utilisateur, souvent humain) à volonté. Ce type de fruit donne souvent un avantage dans les combats au corps à corps.
 
 
 
