@@ -8,6 +8,9 @@ prompt du logo du site : "Logo de style cartoon/vectoriel inspiré de One Piece.
 
 https://onepiece.fandom.com/fr/wiki/Rob_Lucci 
 ## Sources : 
-- https://onepiece.fandom.com/fr/wiki/Gomu_Gomu_no_Mi
-- https://onepiece.fandom.com/fr/wiki/Ope_Ope_no_Mi
+
+-[Monkey D.Luffy](https://onepiece.fandom.com/fr/wiki/Gomu_Gomu_no_Mi)
+
+-[Trafalgar Law](https://onepiece.fandom.com/fr/wiki/Ope_Ope_no_Mi)
+
 - [choper ](https://onepiece.fandom.com/fr/wiki/Hito_Hito_no_Mi#Manga)
