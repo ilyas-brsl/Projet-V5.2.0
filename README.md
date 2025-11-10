@@ -1,19 +1,14 @@
 # Fruits du démon
-## zoan
+def
+## zoan définition
 Zoan est le nom donné à un type de Fruit du Démon permettant à son utilisateur de se transformer en animal ou en une créature hybride (moitié espèce animale et moitié espèce de l'utilisateur, souvent humain) à volonté. Ce type de fruit donne souvent un avantage dans les combats au corps à corps.
-
-
-
-
-
-
-
-
-
-
-
-
-
+## personnage qui on un fruit du zoan
+choper
+des
+rob_lucci
+des
+kaido fruit 
+des
 ## prompt
 prompt du logo du site : "Logo de style cartoon/vectoriel inspiré de One Piece. Le sujet principal est un Fruit du Démon de couleur pourpre, rond et spiralé, portant le chapeau de paille de Luffy. Ce fruit est la planète centrale d'un système où plusieurs autres Fruits du Démon variés (type Paramecia, Logia, Zoan) sont en orbite. Le tout est encadré par un cercle noir et fin. Au-dessus du cercle, le texte est 'DEVIL FRUITS', avec la lettre 'D' colorée en or, et les lettres 'EVIL' et 'FRUITS' en gris métallisé. Ne pas inclure de cornes sur le fruit principal. Ne pas inclure de texte 'BRAND' en bas.".
 ## Sources : 
